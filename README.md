@@ -1,7 +1,7 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://marksenth.github.io/portfolio.github.io/
+> https://marksenth.github.io/
 
 ![GitHub stars](https://img.shields.io/github/stars/Marksenth.github.io/portfolio.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/Marksenth.github.io/portfolio.github.io)
